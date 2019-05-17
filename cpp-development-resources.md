@@ -10,6 +10,7 @@ Different links for articles, videos and repos about c++ development
 * [Hedley](https://nemequ.github.io/hedley/) Hedley is single a C/C++ header you can include in your project to enable compiler-specific features while retaining compatibility with all compilers.
 * [{{inja}}](https://github.com/pantor/inja) Inja is a template engine for modern C++, loosely inspired by jinja for python.
 * [clipp](https://github.com/muellan/clipp) easy to use, powerful & expressive command line argument parsing for modern C++
+* [cmake-examples](http://ttroy50.github.io/cmake-examples)
 
 ## Videos
 * [De-fragmenting C++: Making exceptions more affordable and usable - Herb Sutter](https://youtu.be/os7cqJ5qlzo)
