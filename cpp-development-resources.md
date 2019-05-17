@@ -4,6 +4,7 @@ Different links for articles, videos and repos about c++ development
 ## Lists to see
 * https://github.com/fffaraz/awesome-cpp
 * https://github.com/rigtorp/awesome-modern-cpp
+* https://github.com/YarikTH/devmap
 
 ## Repositories
 * [Hedley](https://nemequ.github.io/hedley/) Hedley is single a C/C++ header you can include in your project to enable compiler-specific features while retaining compatibility with all compilers.
