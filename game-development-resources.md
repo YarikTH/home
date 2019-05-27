@@ -16,6 +16,7 @@
 * crimsonland
 * Alien Shooter 2
 * Victor Vran
+* Flare
 
 ## Articles
 * https://www.reddit.com/r/roguelikedev/
@@ -48,5 +49,6 @@
 
 ## Repositories
 * [hauberk](https://github.com/munificent/hauberk) See at repo structure and dungeon generator
+* [Flare](https://github.com/clintbellanger/flare-engine)
 
 ## Videos
