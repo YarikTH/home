@@ -39,6 +39,7 @@
 
 ## Google search requests
 * 2d lighting algorithms
+* isometric split screen
 
 ## Books
 * Physics_for_Game_Developers_2nd_Edition.pdf
