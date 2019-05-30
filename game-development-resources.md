@@ -17,6 +17,7 @@
 * Alien Shooter 2
 * Victor Vran
 * Flare
+* project zomboid (multilayered isometric map draw. And lighting with vision)
 
 ## Articles
 * https://www.reddit.com/r/roguelikedev/
