@@ -20,6 +20,7 @@
 * project zomboid (multilayered isometric map draw. And lighting with vision)
 
 ## Articles
+* http://journal.stuffwithstuff.com/2014/07/05/dropping-loot/
 * https://www.reddit.com/r/roguelikedev/
 * https://www.reddit.com/r/proceduralgeneration
 * [Game Design Concepts](http://aushestov.ru/%D1%88%D1%80%D0%B0%D0%B9%D0%B1%D0%B5%D1%80/) Переведенные материалы по теории и практике гейм-дизайна за авторством профессионала и педагога Яна Шрайбера.
