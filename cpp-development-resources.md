@@ -13,6 +13,7 @@ Different links for articles, videos and repos about c++ development
 * [clipp](https://github.com/muellan/clipp) easy to use, powerful & expressive command line argument parsing for modern C++
 * [cmake-examples](http://ttroy50.github.io/cmake-examples)
 * [debugbreak](https://github.com/scottt/debugbreak)
+* [scnlib](https://github.com/eliaskosunen/scnlib) type safe scanf analog for c++
 
 ## Videos
 * [De-fragmenting C++: Making exceptions more affordable and usable - Herb Sutter](https://youtu.be/os7cqJ5qlzo)
