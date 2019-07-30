@@ -40,6 +40,7 @@
 * https://www.gridsagegames.com/blog/2016/04/fov-aesthetics/
 * https://gridbugs.org/roguelike-lighting-demo/
 * Networking https://web.archive.org/web/20190405204744/https://gafferongames.com/tags/networking/
+* Split-screen https://jorgegh2.github.io/Split-screen/
 
 ## Google search requests
 * 2d lighting algorithms
