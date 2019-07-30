@@ -41,6 +41,7 @@
 * https://gridbugs.org/roguelike-lighting-demo/
 * Networking https://web.archive.org/web/20190405204744/https://gafferongames.com/tags/networking/
 * Split-screen https://jorgegh2.github.io/Split-screen/
+* PCGamingWiki имеет неплохой сборник технических критериев для игр https://pcgamingwiki.com/wiki/Diablo
 
 ## Google search requests
 * 2d lighting algorithms
