@@ -14,6 +14,9 @@ Different links for articles, videos and repos about c++ development
 * [cmake-examples](http://ttroy50.github.io/cmake-examples)
 * [debugbreak](https://github.com/scottt/debugbreak)
 * [scnlib](https://github.com/eliaskosunen/scnlib) type safe scanf analog for c++
+* [backward-cpp](https://github.com/bombela/backward-cpp) stacktrace library from google
+* [p-ranav/indicators](https://github.com/p-ranav/indicators) Progress bars for c++
+* [tabulate](https://github.com/p-ranav/tabulate) Table Maker for Modern C++ (console gui)
 
 ## Videos
 * [De-fragmenting C++: Making exceptions more affordable and usable - Herb Sutter](https://youtu.be/os7cqJ5qlzo)
