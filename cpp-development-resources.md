@@ -17,6 +17,7 @@ Different links for articles, videos and repos about c++ development
 * [backward-cpp](https://github.com/bombela/backward-cpp) stacktrace library from google
 * [p-ranav/indicators](https://github.com/p-ranav/indicators) Progress bars for c++
 * [tabulate](https://github.com/p-ranav/tabulate) Table Maker for Modern C++ (console gui)
+* [random](https://github.com/effolkronium/random) Wrapper around c++ random generator
 
 ## Videos
 * [De-fragmenting C++: Making exceptions more affordable and usable - Herb Sutter](https://youtu.be/os7cqJ5qlzo)
