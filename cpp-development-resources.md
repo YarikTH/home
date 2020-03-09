@@ -18,6 +18,7 @@ Different links for articles, videos and repos about c++ development
 * [p-ranav/indicators](https://github.com/p-ranav/indicators) Progress bars for c++
 * [tabulate](https://github.com/p-ranav/tabulate) Table Maker for Modern C++ (console gui)
 * [random](https://github.com/effolkronium/random) Wrapper around c++ random generator
+* [C++React](https://github.com/schlangster/cpp.react) A reactive programming library for C++11
 
 ## Videos
 * [De-fragmenting C++: Making exceptions more affordable and usable - Herb Sutter](https://youtu.be/os7cqJ5qlzo)
