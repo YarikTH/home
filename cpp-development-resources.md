@@ -19,6 +19,8 @@ Different links for articles, videos and repos about c++ development
 * [tabulate](https://github.com/p-ranav/tabulate) Table Maker for Modern C++ (console gui)
 * [random](https://github.com/effolkronium/random) Wrapper around c++ random generator
 * [C++React](https://github.com/schlangster/cpp.react) A reactive programming library for C++11
+* [nholthaus/units](https://github.com/nholthaus/units) a compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies.
+* [type-lite](https://github.com/martinmoene/type-lite) type - Strong types for C++98, C++11 and later in a single-file header-only library
 
 ## Videos
 * [De-fragmenting C++: Making exceptions more affordable and usable - Herb Sutter](https://youtu.be/os7cqJ5qlzo)
