@@ -34,6 +34,10 @@ Different links for articles, videos and repos about c++ development
 ## Articles
 * [The surprisingly high cost of static-lifetime constructors](https://quuxplusone.github.io/blog/2018/06/26/cost-of-static-lifetime-constructors/)
 * [Держим дизайн системы под контролем, используя изолированное юнит-тестирование](http://software-testing.ru/library/testing/test-analysis/2983-design-systems-under-control)
+* [Managing Decoupling](https://web.archive.org/web/20140719151424/http://altdev.co/2011/01/26/managing-decoupling/)
+* [Managing Coupling](http://bitsquid.blogspot.com/2011/01/managing-coupling.html)
+* [Managing Coupling Part 2 — Polling, Callbacks and Events](http://bitsquid.blogspot.com/2011/02/managing-decoupling-part-2-polling.html)
+* [A Pragmatic Approach to Performance](http://bitsquid.blogspot.com/2011/12/pragmatic-approach-to-performance.html)
 
 ## [C++ FAQ](http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html)
 * [Named Constructor Idiom](http://www.cs.technion.ac.il/users/yechiel/c++-faq/named-ctor-idiom.html)
