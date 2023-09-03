@@ -42,3 +42,6 @@ Different links for articles, videos and repos about c++ development
 ## [C++ FAQ](http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html)
 * [Named Constructor Idiom](http://www.cs.technion.ac.il/users/yechiel/c++-faq/named-ctor-idiom.html)
 * [Named Parameter Idiom](http://www.cs.technion.ac.il/users/yechiel/c++-faq/named-parameter-idiom.html)
+
+## Other
+* [Image preview](https://github.com/topics/tanks-game?l=c%2B%2B) and video preview in the readme https://github.com/DamirDenis-Tudor/2D_Tank_Simulator
